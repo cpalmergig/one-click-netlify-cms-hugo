@@ -27,11 +27,12 @@ products:
       you roast your own beans or just bought your first french press, you’ll
       find a gadget to fall in love with in our shop.
   - image: img/illustrations-coffee-gear.svg
-    text: Product Text 3. This was manually added in VS Code.      
+    text: Product Text 3. This was manually added in VS Code. Then it was edited in
+      Netlify CMS content manager.
 values:
   heading: Our values
-  text: Product Text 3. Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: Product Text 3. Coffee is an amazing part of human culture but it has a
+    dark side too – one of colonialism and mindless abuse of natural resources
+    and human lives. We want to turn this around and return the coffee trade to
+    the drink’s exhilarating, empowering and unifying nature.
 ---
